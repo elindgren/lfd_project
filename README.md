@@ -1,1 +1,1 @@
-# lfd_project1
+# Learning from Data project 1 and 2.
