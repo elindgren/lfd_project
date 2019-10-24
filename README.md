@@ -1,1 +1,1 @@
-# Learning from Data project 1 and 2.
+# Learning from Data project 1 and 2
